@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABgAAAAAAAAAAGBnAAAAAAAAAAAAAHZnAAAAUFUAAAAAYHdnAAAAUFUAAAAAdpdnAABVVUUAIt3dERERER1FVEUgIhER3d3d3SIkRCQiIpuZy7y7HUIkJEIiIpuZy7y70UIiJCIiIpuZy7y70UJEJCIiIpuZy7y7ESIkREQgIh3REd0RHSJEREQAIh0R3R3d3dFFVUUAAAAAdpdnAAAAVVUAAAAAYHdnAAAAUFUAAAAAAHZnAAAAAAAAAAAAAGBnAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Space ship"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
